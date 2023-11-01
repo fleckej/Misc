@@ -1,0 +1,15 @@
+openssl.txt filter=lfs diff=lfs merge=lfs -text
+python-2.7.8.msi filter=lfs diff=lfs merge=lfs -text
+splunk-9.1.1.deb.zip filter=lfs diff=lfs merge=lfs -text
+curl-8.4.0_3-win64-mingw.zip filter=lfs diff=lfs merge=lfs -text
+agent filter=lfs diff=lfs merge=lfs -text
+python2-7-8-msi.txt filter=lfs diff=lfs merge=lfs -text
+splunk-9.1.1-64e843ea36b1-x64-release.msi filter=lfs diff=lfs merge=lfs -text
+splunk-9.1.1.deb filter=lfs diff=lfs merge=lfs -text
+splunk-for-snort_05.tgz filter=lfs diff=lfs merge=lfs -text
+win10.txt filter=lfs diff=lfs merge=lfs -text
+win8.1.txt filter=lfs diff=lfs merge=lfs -text
+InstallSnortUbuntu.sh filter=lfs diff=lfs merge=lfs -text
+curl-8.4.0_3-win64-mingw filter=lfs diff=lfs merge=lfs -text
+splunk-9.1.1-64e843ea36b1-x64-release.msi.zip filter=lfs diff=lfs merge=lfs -text
+splunkforwarder-9.1.1-64e843ea36b1-x64-release.msi filter=lfs diff=lfs merge=lfs -text

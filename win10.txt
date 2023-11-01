@@ -1,1 +1,3 @@
-https://anturis.com/windows-7-ultimate-iso/file/?urls=azZtcjllMTc1c3ExcHh2VnRldEJsOHBUUlhLdWpITXNzdEhydFluN011c0dmZUdReGYvQk9EM294dzA5d0VrZQ==&sizes=3.32GB&names=Windows7.Ultimate.SP1.x64.NesabaMedia.iso
+version https://git-lfs.github.com/spec/v1
+oid sha256:57bd355773d7a1710cb452a3cc31aef27dedde6ca9336e4d377841f61472aef2
+size 204
